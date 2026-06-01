@@ -1,0 +1,1 @@
+User-agent: * Allow: / # Optional but recommended: tell search engines where your sitemap is # (create a sitemap.xml later if you don't have one yet) # Sitemap: https://top-50-restaurants-in-california.pages.dev/sitemap.xml # Block AI scrapers if you want (optional) # User-agent: GPTBot # Disallow: / # User-agent: ChatGPT-User # Disallow: /
